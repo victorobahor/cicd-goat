@@ -1,4 +1,4 @@
-FROM alpine:3.15.3
+FROM alpine:3.21.0
 LABEL org.opencontainers.image.vendor="Cider Security" \
     org.opencontainers.image.title="CI/CD Goat - Lighttpd" \
     org.opencontainers.image.description="Deliberately vulnerable CI/CD environment." \
